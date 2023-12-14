@@ -9,3 +9,4 @@
 ## Connect with me
 - dima@doroshev.com
 - [LinkedIn](https://www.linkedin.com/in/dima-doroshev/)
+- <a rel="me" href="https://mas.to/@doroshev">Mastodon</a>
