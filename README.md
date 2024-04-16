@@ -1,7 +1,7 @@
 ## Hi there 👋 I'm Dima (Dmitrii)
 
 - 🇱🇹 I live in Vilnius, Lithuania
-- 🖥️ I'm an engineer in [Vilantis](https://vilantis.ai)
+- 🖥️ I'm a software engineer
 - 📰 I have a [Telegram channel](https://t.me/deemarique) (in Russian)
 - 📝 a [blog](https://doroshev.com) (in Russian as well)
 - 👨‍💻 and a [dev blog](https://dev.doroshev.com).
